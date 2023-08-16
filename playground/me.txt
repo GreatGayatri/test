@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gayatri
-Skills: HTML, CSS, JS, Node.js, Next.js
-Email: gayatri610manral@gmail.com
-{{/user}}
